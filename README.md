@@ -14,17 +14,17 @@ The project is built with **Python, Machine Learning, NLP, and Streamlit** to cr
 When deployed on Streamlit Cloud, add your link here:
 
 Try the app:  
-https://your-streamlit-app-link-here
+https://game-suggestions.streamlit.app/
 
 ---
 
 # 🎥 Project Demo
 
-Drag and drop your demo video file named:
 
-demo.mp4
 
-inside the repository and it will appear here.
+https://github.com/user-attachments/assets/876cfe05-ac04-47ae-872e-df5053b844d8
+
+
 
 <video src="demo.mp4" controls width="800"></video>
 
